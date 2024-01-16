@@ -7,4 +7,4 @@ Tecnologias usadas:
 HTML5
 CSS3
 
-<a href="https://edilangomes.github.io/RECEITAS-DELICIOSAS/" target="_blank">--> Link de acesso ao Portifólio</a>
+<a href="https://edilangomes.github.io/RECEITAS-DELICIOSAS/" target="_blank">--> Link de acesso ao Site</a>
